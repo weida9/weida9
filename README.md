@@ -21,6 +21,8 @@ Hi there! 👋 I'm Agung Weida, a passionate IT student specializing in back-end
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
