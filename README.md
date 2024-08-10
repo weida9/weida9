@@ -1,4 +1,4 @@
-# Agung Weida - @weida-88
+# Anak Agung Gde Weida Ksatriawarma - @weida-88
 
 ![GitHub followers](https://img.shields.io/github/followers/weida-88?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/weida-88?style=social)
