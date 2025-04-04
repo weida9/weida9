@@ -3,11 +3,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/weida-88?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/weida-88?style=social)
 
-Hi there! 👋 I'm Agung Weida, a passionate IT student specializing in back-end development and cloud engineering. Welcome to my GitHub profile! With AI assistant I almost can have more things to do!
+Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almost can have more things to do!
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning about web development, and artificial intelligence.
+- 🌱 I’m currently learning about web development, and artificial intelligence. Will focus on that 2 things.
 - 💼 I'm offering services in website creation for company profiles, personal portfolios, and more.
 - 📚 I’m majoring in IT with courses including Computer Networks, Microcontroller Design, Object-Oriented Programming, and more.
 
