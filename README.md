@@ -21,6 +21,13 @@ Hi there! 👋 I'm Agung Weida, a passionate IT student specializing in back-end
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
+### With AI Assistant
+- Tailwind css
+- React.js
+- Nodejs
+- Next.js
+- Express.js
+
 ## 📈 GitHub Stats
 
 ![Agung Weida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weida-88&show_icons=true&theme=radical)
