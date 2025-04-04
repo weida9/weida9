@@ -8,7 +8,7 @@ Hi there! 👋 I'm Agung Weida, a passionate IT student specializing in back-end
 ## 🚀 About Me
 
 - 🌱 I’m currently learning about web development, and artificial intelligence.
-- 💼 I'm offering services in static website creation for company profiles and personal portfolios.
+- 💼 I'm offering services in website creation for company profiles, personal portfolios, and more.
 - 📚 I’m majoring in IT with courses including Computer Networks, Microcontroller Design, Object-Oriented Programming, and more.
 
 ## 🔧 Technologies & Tools
