@@ -7,12 +7,9 @@ Hi there! 👋 I'm Agung Weida, a passionate IT student specializing in back-end
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning everything about back-end development, cloud engineering, and cybersecurity.
+- 🌱 I’m currently learning about web development, and artificial intelligence.
 - 💼 I'm offering services in static website creation for company profiles and personal portfolios.
 - 📚 I’m majoring in IT with courses including Computer Networks, Microcontroller Design, Object-Oriented Programming, and more.
-- 💡 I have a personal website [Agung Weida](https://github.com/weida-88) where I discuss technology, programming, cryptocurrency, investment, gaming, and other related topics.
-- 👯 I’m looking to collaborate on projects that involve digital marketing, cloud solutions, and penetration testing for SMEs.
-- 💬 Ask me about anything related to IT, programming, AI, and cloud technologies.
 
 ## 🔧 Technologies & Tools
 
