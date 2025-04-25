@@ -33,12 +33,6 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 
 ![Agung Weida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weida-88&show_icons=true&theme=radical)
 
-## 🔗 Let's Connect
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agung%20Weida-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agung-weida/)
-- [![Twitter](https://img.shields.io/twitter/follow/agung_weida?style=social)](https://twitter.com/agung_weida)
-- [![Personal Website](https://img.shields.io/badge/Website-Agung%20Weida-blue?style=flat&logo=google-chrome)](https://agung-weida.com)
-
 ## 🌐 My Campus GitHub
 
 Check out my campus GitHub for more educational resources and projects: [Campus GitHub](https://github.com/weida-88)
