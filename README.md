@@ -21,12 +21,13 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
-### With AI Assistant
+### With AI Assistant:
 - Tailwind css
 - React.js
 - Nodejs
 - Next.js
 - Express.js
+- Almost All haha..
 
 ## 📈 GitHub Stats
 
