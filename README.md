@@ -21,7 +21,7 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
-### With AI Assistant:
+### With Cursor AI and AI Assistant, I can do:
 - Tailwind css
 - React.js
 - Nodejs
