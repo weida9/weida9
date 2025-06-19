@@ -1,4 +1,4 @@
-# Anak Agung Gde Weida Ksatriawarma - @weida-88
+# Anak Agung Gde Weida Ksatriawarma
 
 ![GitHub followers](https://img.shields.io/github/followers/weida-88?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/weida-88?style=social)
@@ -9,7 +9,7 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 
 - 🌱 I’m currently learning about web development, and artificial intelligence. Will focus on that 2 things.
 - 💼 I'm offering services in website creation for company profiles, personal portfolios, and more.
-- 📚 I’m majoring in IT with courses including Computer Networks, Microcontroller Design, Object-Oriented Programming, and more.
+- 📚 I’m majoring in IT with courses including Computer Networks, Microcontroller Design, Object-Oriented Programming, and more, still learning more!
 
 ## 🔧 Technologies & Tools
 
