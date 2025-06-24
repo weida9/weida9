@@ -9,7 +9,7 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 
 - 🌱 I’m currently learning about web development, and artificial intelligence. Will focus on that 2 things.
 - 💼 I'm offering services in website creation for company profiles, personal portfolios, and more.
-- 📚 I’m majoring in IT with courses including Computer Networks, Microcontroller Design, Object-Oriented Programming, and more, still learning more!
+- 📚 I’m majoring in IT with courses including Web Development, Computer Networks, Microcontroller and Internet of Things and more, still learning more!
 
 ## 🔧 Technologies & Tools
 
