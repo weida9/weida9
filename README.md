@@ -1,8 +1,5 @@
 # Anak Agung Gde Weida Ksatriawarma
 
-![GitHub followers](https://img.shields.io/github/followers/weida-88?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/weida-88?style=social)
-
 Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almost can have more things to do! Bitcoin will $1M!
 
 ## 🚀 About Me
