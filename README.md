@@ -30,10 +30,6 @@ More: Elementor, Cursor AI Pro, ChatGPT Plus, Gemini Pro, Claude Sonnet, Brave B
 - Express.js
 - Almost All haha..
 
-## 📈 GitHub Stats
-
-![Agung Weida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weida-88&show_icons=true&theme=radical)
-
 ## 🌐 My Campus GitHub
 
 Check out my campus GitHub for more educational resources and projects: [@weida-88](https://github.com/weida-88)
