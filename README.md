@@ -4,7 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/weida-88?style=social)
 
 Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almost can have more things to do! Bitcoin will $1M!
-
+markdown<br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F7F7F7&width=435&lines=Hi+there+👋;I'm+Weida;Web+%26+AI+Enthusiast)](https://git.io/typing-svg)<br>
 ## 🚀 About Me
 
 - 🌱 I’m currently learning about web development, and artificial intelligence. Will focus on that 2 things.
