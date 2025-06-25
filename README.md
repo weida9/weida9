@@ -14,7 +14,7 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 ## 🔧 More Confident With This Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress,bootstrap,linux,ubuntu,vscode,windows)](https://skillicons.dev)
 
-More: Cursor AI Pro, ChatGPT Plus, Gemini Pro.
+More: Cursor AI Pro, ChatGPT Plus, Gemini Pro, Claude Sonnet.
 
 ### Collaboration Tools
 [![My Skills](https://skillicons.dev/icons?i=discord,github)](https://skillicons.dev)
