@@ -11,7 +11,8 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 - 💼 I'm offering services in website creation for company profiles, personal portfolios, and more.
 - 📚 I’m majoring in IT with courses including Web Development, Computer Networks, Microcontroller and Internet of Things and more, still learning more!
 
-## 🔧 Technologies & Tools
+## 🔧 More Confident With This Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress,git,github,bootstrap)](https://skillicons.dev)
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -21,8 +22,8 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
-## I have explore
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cpp,cloudflare,debian,discord,docker,express,fastapi,figma,flask,gcp,git,github,go,kali,kotlin,kubernetes,laravel,linux,md,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,obsidian,opencv,postman,pycharm,py,pytorch,raspberrypi,react,replit,sqlite,sublime,sklearn,tailwind,tensorflow,ts,ubuntu,unity,vercel,vim,vite,vscode,windows,wordpress,)](https://skillicons.dev)
+## More and Things I have explore
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cpp,cloudflare,debian,discord,docker,express,fastapi,figma,flask,gcp,git,github,go,kali,kotlin,kubernetes,laravel,linux,md,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,obsidian,opencv,postman,pycharm,py,pytorch,raspberrypi,react,replit,sqlite,sublime,sklearn,tailwind,tensorflow,ts,ubuntu,unity,vercel,vim,vite,vscode,windows)](https://skillicons.dev)
 
 ### With Cursor AI and AI Assistant, I can do:
 - Tailwind css
