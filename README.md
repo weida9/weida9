@@ -36,6 +36,4 @@ More: Elementor, Cursor AI Pro, ChatGPT Plus, Gemini Pro, Claude Sonnet, Brave B
 
 ## 🌐 My Campus GitHub
 
-Check out my campus GitHub for more educational resources and projects: [Campus GitHub](https://github.com/weida-88)
-
-⭐️ From [@weida-88](https://github.com/weida-88)
+Check out my campus GitHub for more educational resources and projects: [@weida-88](https://github.com/weida-88)
