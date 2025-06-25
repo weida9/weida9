@@ -21,6 +21,9 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
+## I have explore
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cpp,cloudflare,debian,discord,docker,express,fastapi,figma,flask,gcp,git,github,go,kali,kotlin,kubernetes,laravel,linux,md,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,obsidian,,opencv,postman,pycharm,py,pytroch,raspberrypi,react,replit,sqlite,sublime,sklearn,tailwind,tensorflow,ts,ubuntu,unity,vercel,vim,vite,vscode,windows,wordpress,)](https://skillicons.dev)
+
 ### With Cursor AI and AI Assistant, I can do:
 - Tailwind css
 - React.js
