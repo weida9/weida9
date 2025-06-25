@@ -5,6 +5,12 @@
 
 Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almost can have more things to do! Bitcoin will $1M!
 markdown<br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F7F7F7&width=435&lines=Hi+there+👋;I'm+Weida;Web+%26+AI+Enthusiast)](https://git.io/typing-svg)<br>
+markdown<br>[![trophy](https://github-profile-trophy.vercel.app/?username=<USERNAME>&theme=gruvbox&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)<br>
+markdown<br>[![GitHub Streak](https://streak-stats.demolab.com/?user=<USERNAME>&theme=tokyonight_duo)](https://git.io/streak-stats)<br>
+markdown<br>![Visitor Badge](https://count.getloli.com/get/@<USERNAME>?theme=rule34)<br>
+markdown<br>![WakaTime](https://github.com/<USERNAME>/<USERNAME>/actions/workflows/wakatime.yml/badge.svg)<br>
+markdown<br>[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify)](https://open.spotify.com/user/<YOUR_ID>)<br>
+markdown<br>[![Skyline](https://skyline.github.com/<USERNAME>/2024)](https://skyline.github.com/<USERNAME>/2024)<br>
 ## 🚀 About Me
 
 - 🌱 I’m currently learning about web development, and artificial intelligence. Will focus on that 2 things.
