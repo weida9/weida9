@@ -12,7 +12,8 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 - 📚 I’m majoring in IT with courses including Web Development, Computer Networks, Microcontroller and Internet of Things and more, still learning more!
 
 ## 🔧 More Confident With This Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress,bootstrap,linux,ubuntu,vscode,windows)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress,bootstrap,linux,ubuntu,vscode,windows)](https://skillicons.dev)
+
 More: Cursor AI Pro, ChatGPT Plus, Gemini Pro.
 
 ### Collaboration Tools
