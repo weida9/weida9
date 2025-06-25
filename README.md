@@ -37,6 +37,4 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 
 Check out my campus GitHub for more educational resources and projects: [Campus GitHub](https://github.com/weida-88)
 
----
-
 ⭐️ From [@weida-88](https://github.com/weida-88)
