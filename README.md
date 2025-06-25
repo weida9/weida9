@@ -12,10 +12,13 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 - 📚 I’m majoring in IT with courses including Web Development, Computer Networks, Microcontroller and Internet of Things and more, still learning more!
 
 ## 🔧 More Confident With This Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress,git,github,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress,bootstrap,linux,ubuntu,vscode,windows)](https://skillicons.dev)
+
+### Collaboration Tools
+[![My Skills](https://skillicons.dev/icons?i=discord,github)](https://skillicons.dev)
 
 ## More and Things I have explore
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cpp,cloudflare,debian,discord,docker,express,fastapi,figma,flask,gcp,git,github,go,kali,kotlin,kubernetes,laravel,linux,md,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,obsidian,opencv,postman,pycharm,py,pytorch,raspberrypi,react,replit,sqlite,sublime,sklearn,tailwind,tensorflow,ts,ubuntu,unity,vercel,vim,vite,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cpp,cloudflare,debian,docker,express,fastapi,figma,flask,gcp,go,kali,kotlin,kubernetes,laravel,md,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,obsidian,opencv,postman,pycharm,pytorch,raspberrypi,react,replit,sqlite,sublime,sklearn,tailwind,tensorflow,ts,unity,vercel,vim,vite)](https://skillicons.dev)
 
 ### With Cursor AI and AI Assistant, I can do:
 - Tailwind css
