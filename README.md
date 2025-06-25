@@ -4,18 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/weida-88?style=social)
 
 Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almost can have more things to do! Bitcoin will $1M!
-markdown<br>![snake gif](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)<br>
-markdown<br>[![Sponsor](https://img.shields.io/badge/Sponsor-❤-ff69b4?style=for-the-badge)](https://github.com/sponsors/<USERNAME>)<br>
-markdown<br>[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/USER_ID?logo=stackoverflow&label=Stack%20Overflow&style=flat-square)](https://stackoverflow.com/users/USER_ID)<br>
-markdown<br>[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datrepo.io/api/badge/<YOUR_KEY>.json)]<br>
-Use gautamkrishnar/blog-post-workflow Action:
-<!-- BLOG-POST-LIST:START -->
-yaml<br># .github/workflows/blog.yml<br>- uses: gautamkrishnar/blog-post-workflow@v2<br> with: feed_list: "https://dev.to/feed/<USERNAME>"<br>
-<!-- BLOG-POST-LIST:END -->
-markdown<br>![Quote](https://readme-quote.vercel.app/api?color=cyan)<br>
-markdown<br>[![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-achievements?username=<USERNAME>&theme=tokyonight)]<br>
-markdown<br>![Weather](https://img.shields.io/badge/dynamic/json?label=Denpasar&query=%24.main.temp&suffix=°C&url=https://api.openweathermap.org/data/2.5/weather?q=Denpasar&appid=<API_KEY>)<br>
-markdown<br>![Random Fact](https://random-facts-musings.vercel.app/api)<br>
+
 ## 🚀 About Me
 
 - 🌱 I’m currently learning about web development, and artificial intelligence. Will focus on that 2 things.
