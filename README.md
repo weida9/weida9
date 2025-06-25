@@ -14,14 +14,6 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 ## 🔧 More Confident With This Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress,git,github,bootstrap)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-
 ## More and Things I have explore
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cpp,cloudflare,debian,discord,docker,express,fastapi,figma,flask,gcp,git,github,go,kali,kotlin,kubernetes,laravel,linux,md,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,obsidian,opencv,postman,pycharm,py,pytorch,raspberrypi,react,replit,sqlite,sublime,sklearn,tailwind,tensorflow,ts,ubuntu,unity,vercel,vim,vite,vscode,windows)](https://skillicons.dev)
 
