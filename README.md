@@ -11,21 +11,14 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 ## 🔧 More Confident With This Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress,bootstrap,linux,ubuntu,vscode,windows)](https://skillicons.dev)
 
-More: Elementor, Cursor AI Pro, ChatGPT Plus, Gemini Pro, Claude Sonnet, Brave Browser, Firefox, Google Chrome.
+More: Elementor, Claude Code.
 
 ### Collaboration Tools
 [![My Skills](https://skillicons.dev/icons?i=discord,github)](https://skillicons.dev)
 
 ## More and Things I have explore
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cpp,cloudflare,debian,docker,express,fastapi,figma,flask,gcp,go,kali,kotlin,kubernetes,laravel,md,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,obsidian,opencv,postman,pycharm,pytorch,raspberrypi,react,replit,sqlite,sublime,sklearn,tailwind,tensorflow,ts,unity,vercel,vim,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,arduino,bash,cpp,debian,docker,figma,kali,md,mint,mysql,nginx,nodejs,npm,postman,raspberrypi,tailwind)](https://skillicons.dev)
 
-### With Cursor AI and AI Assistant, I can do:
-- Tailwind css
-- React.js
-- Nodejs
-- Next.js
-- Express.js
-- Almost All haha..
 
 ## 🌐 My Campus GitHub
 
