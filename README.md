@@ -17,7 +17,7 @@ More: Elementor, Claude Code.
 [![My Skills](https://skillicons.dev/icons?i=discord,github)](https://skillicons.dev)
 
 ## More and Things I have explore
-[![My Skills](https://skillicons.dev/icons?i=,arduino,bash,cpp,debian,docker,figma,kali,md,mint,mysql,nginx,nodejs,npm,postman,raspberrypi,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,cpp,debian,docker,figma,kali,md,mint,mysql,nginx,nodejs,npm,postman,raspberrypi,tailwind)](https://skillicons.dev)
 
 
 ## 🌐 My Campus GitHub
