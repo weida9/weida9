@@ -9,7 +9,7 @@ Hi there! 👋 I'm Weida, welcome to my GitHub profile! With AI assistant I almo
 - 📚 I’m majoring in IT with courses including Web Development, Computer Networks, Microcontroller and Internet of Things and more, still learning more!
 
 ## 🔧 More Confident With This Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress,bootstrap,linux,ubuntu,vscode,windows,reactjs,shadcnui,nextjs,supabase,vercel,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress,bootstrap,linux,ubuntu,vscode,windows,react,nextjs,supabase,vercel,tailwind)](https://skillicons.dev)
 
 More: Elementor, Claude Code.
 
